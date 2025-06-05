@@ -1,0 +1,94 @@
+{
+  "hosts": [
+    {
+      "id": "1",
+      "name": "servidor01.exemplo.com",
+      "ip": "192.168.1.100",
+      "description": "Servidor Web principal",
+      "status": true
+    },
+    {
+      "id": "2",
+      "name": "bd.exemplo.com",
+      "ip": "192.168.1.101",
+      "description": "Servidor de Banco de Dados",
+      "status": true
+    },
+    {
+      "id": "3",
+      "name": "app.exemplo.com",
+      "ip": "192.168.1.102",
+      "description": "Servidor de Aplicações",
+      "status": false
+    },
+    {
+      "id": "4",
+      "name": "mail.exemplo.com",
+      "ip": "192.168.1.103",
+      "description": "Servidor de Email",
+      "status": true
+    },
+    {
+      "id": "5",
+      "name": "backup.exemplo.com",
+      "ip": "192.168.1.104",
+      "description": "Servidor de Backup",
+      "status": true
+    },
+    {
+      "id": "6",
+      "name": "files.exemplo.com",
+      "ip": "192.168.1.105",
+      "description": "Servidor de Arquivos",
+      "status": false
+    },
+    {
+      "id": "7",
+      "name": "Google DNS",
+      "ip": "8.8.8.8",
+      "description": "Servidor DNS do Google",
+      "status": true
+    },
+    {
+      "id": "8",
+      "name": "Google DNS | Secundário",
+      "ip": "8.8.4.4",
+      "description": "",
+      "status": true
+    },
+    {
+      "id": "70e1",
+      "name": "sw01",
+      "ip": "192.168.5.2",
+      "description": "aaaaa",
+      "status": true
+    },
+    {
+      "id": "353f",
+      "name": "sw01'",
+      "ip": "195.519.819.519",
+      "description": "aaaaeeeee",
+      "tipo": "Switch",
+      "fabricante": "Cisco",
+      "status": true
+    },
+    {
+      "id": "83dc",
+      "name": "sw01",
+      "ip": "195.519.819.519",
+      "description": "btfg",
+      "tipo": "Switch",
+      "fabricante": "Cisco",
+      "status": true
+    },
+    {
+      "id": "38fd",
+      "name": "sw01",
+      "ip": "195.519.819.519",
+      "description": "bg f gdf",
+      "tipo": "Switch",
+      "fabricante": "ghbg",
+      "status": true
+    }
+  ]
+}

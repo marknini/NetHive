@@ -1,0 +1,125 @@
+
+span{ color: #F28C28;}
+
+.text-bg-blue{
+    background-color:  #23234d;
+    color: white;
+    text-align: center;
+}
+
+.margem-logo{
+    width: 110px;
+    height: 110px;
+    margin-left: -35px;
+    position: relative;
+    top: -2px;
+}
+
+.nethive{
+    font-size: 65px
+}
+
+.botoes {
+    position: absolute;
+    top: 55px;
+    margin-left: 1350px;
+}
+
+.btn-login {
+    background-color: #F28C28 !important;
+    color: white !important;
+    border: none !important;
+    font-weight: bold;
+    padding: 6px 16px;
+    border-radius: 5px;
+}
+
+.btn-login:hover {
+    background-color: #e9a35e !important;
+}
+
+body {
+  background: linear-gradient(180deg, #1f1f3a 0%, #23234d 100%);
+  color: white !important
+}
+
+
+
+.main-title {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 60px;
+
+}
+
+.paragrafo {
+    text-align: center;
+    color: #9f9f9f;
+    margin-bottom: 20px;
+    font-size: 25px;
+    
+}
+
+.funcionalidades{
+    text-align: center;
+    color:#F28C28;
+    font-size: 45px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+
+}
+
+h5{
+    text-align: center;
+}
+
+section{
+    max-width: 600px;
+    margin: auto;
+}
+
+.card {
+  background-color: #2e2e6a !important;
+  border-radius: 0.75rem !important;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.25) !important;
+  padding: 1.5rem !important;
+  color: white !important;
+}
+
+
+.card-text{
+    font-size:  20px;
+    text-align: center;
+    
+}
+
+.card:hover {
+  transform: scale(1.05);
+  transition: 0.3s ease;
+}
+
+
+
+footer {
+    margin-top: 60px;
+    text-align: center;
+    padding: 20px;
+    background-color: #23234d;
+    color: white;
+}
+
+footer a {
+  text-decoration: none;
+  font-size: 1rem;
+  transition: color 0.3s;
+}
+
+footer a:hover {
+  color: #F28C28;
+}
+
+footer i {
+  margin-right: 6px;
+}
+
+

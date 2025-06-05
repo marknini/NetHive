@@ -1,0 +1,39 @@
+.login-bg {
+  background-color: #23234d;
+  height: 100vh;
+  color: white;
+}
+
+.login-card {
+  width: 100%;
+  max-width: 400px;
+  padding: 2rem;
+  border: none;
+  background-color: #2e2e6a;
+  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+}
+
+.login-logo {
+  width: 80px;
+}
+
+.nethive {
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+}
+
+.nethive span {
+  color: #F28C28;
+}
+
+.btn-login {
+  background-color: #F28C28;
+  color: white;
+  font-weight: bold;
+  border: none;
+}
+
+.btn-login:hover {
+  background-color: #d4771f;
+}
